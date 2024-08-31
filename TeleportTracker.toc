@@ -1,0 +1,8 @@
+## Interface: 110256421
+## Title: Teleport Tracker
+## Notes: Tracks the placement of teleport abilities and provides a color-changing arrow.
+## Author: Noompsee
+## Version: 1.0
+## SavedVariables: TeleportTrackerDB
+
+TeleportTracker.lua
